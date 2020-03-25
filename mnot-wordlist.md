@@ -6,7 +6,7 @@ ok boomer
 blockchain
 parrotwave
 microfoon
-wortenbroodje
+worstenbroodje
 frikandelbroodje
 blikje
 podcast
