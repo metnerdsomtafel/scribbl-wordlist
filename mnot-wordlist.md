@@ -13,6 +13,9 @@ podcast
 bestekmandje
 yeet
 brabant
+toxyciseennoob
+rian
+achterklap
 spa rood
 dinsdagavond
 patreon
