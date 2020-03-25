@@ -26,4 +26,14 @@ nerds
 bordspellen
 grammatica
 taal
+computer
+nintendo switch
+programmeren
+awwwwwww
+rian van rijbroek
+hond
+kat
+stoplicht
+trekker
+hacker
 ```
