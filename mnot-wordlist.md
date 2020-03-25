@@ -19,4 +19,8 @@ patreon
 slack
 weerwolven
 weerwolf
+nerds
+bordspellen
+grammatica
+taal
 ```
