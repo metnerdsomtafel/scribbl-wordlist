@@ -13,4 +13,10 @@ podcast
 bestekmandje
 yeet
 brabant
+spa rood
+dinsdagavond
+patreon
+slack
+weerwolven
+weerwolf
 ```
