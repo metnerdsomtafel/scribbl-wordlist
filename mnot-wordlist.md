@@ -13,8 +13,17 @@ podcast
 bestekmandje
 yeet
 brabant
-bestekla
 toxyciseennoob
 rian
 achterklap
+spa rood
+dinsdagavond
+patreon
+slack
+weerwolven
+weerwolf
+nerds
+bordspellen
+grammatica
+taal
 ```
